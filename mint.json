@@ -28,7 +28,7 @@
   "tabs": [
     {
       "name": "Coding Challenge",
-      "url": "api-reference"
+      "url": "365 Days Coding Challenge"
     }
   ],
   "anchors": [
@@ -62,11 +62,20 @@
       "pages": ["api-reference/introduction"]
     },
     {
-      "group": "Endpoint Examples",
+      "group": "Days/Questions",
       "pages": [
-        "api-reference/endpoint/get",
-        "api-reference/endpoint/create",
-        "api-reference/endpoint/delete"
+        "365 Days Coding Challenge/questions/Day 11/OccurrenceOfEachNumber.mdx.mdx",
+        "365 Days Coding Challenge/questions/Day 10/Max Non Negative SubArray.mdx",
+        "365 Days Coding Challenge/questions/Day 9/SpiralOrderMatrix.mdx",
+        "365 Days Coding Challenge/questions/Day 8/BinaryRepresentation.mdx",
+        "365 Days Coding Challenge/questions/Day 7/MinimumLights.mdx",
+        "365 Days Coding Challenge/questions/Day 6/PickFromBothSide.mdx",
+        "365 Days Coding Challenge/questions/Day 5/AddOneToNumber.mdx",
+        "365 Days Coding Challenge/questions/Day 4/WaveArray.mdx",
+        "365 Days Coding Challenge/questions/Day 3/MaxSumSubarray.mdx",
+        "365 Days Coding Challenge/questions/Day 2/MinSteps.mdx",
+        "365 Days Coding Challenge/questions/Day 1/VerifyPrime.mdx"
+        
       ]
     }
   ],
