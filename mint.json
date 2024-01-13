@@ -73,7 +73,12 @@
                 "coding-challenge/day_4/WaveArray",
                 "coding-challenge/day_3/MaxSumSubarray",
                 "coding-challenge/day_2/MinSteps",
-                "coding-challenge/day_1/VerifyPrime"
+                {
+                  "title": "day 1 ",
+                  "icon": "fa fa-rocket",
+                  "path": "coding-challenge/day_1/VerifyPrime"
+                
+                }
         
       ]
     }
