@@ -27,8 +27,8 @@
   },
   "tabs": [
     {
-      "name": "365 Days Coding Challenge",
-      "url": "365 Days Coding Challenge"
+      "name": "coding-challenge",
+      "url": "coding-challenge"
     }
   ],
   "anchors": [
@@ -59,21 +59,21 @@
     },
     {
       "group": "365 Days Coding Challenge",
-      "pages": ["365 Days Coding Challenge/introduction"]
+      "pages": ["coding-challenge/introduction"]
     },
     {
       "group": "Questions",
-      "pages": ["365 Days Coding Challenge/questions/Day 11/OccurrenceOfEachNumber",
-        "365 Days Coding Challenge/questions/Day 10/Max Non Negative SubArray",
-        "365 Days Coding Challenge/questions/Day 9/SpiralOrderMatrix",
-        "365 Days Coding Challenge/questions/Day 8/BinaryRepresentation",
-        "365 Days Coding Challenge/questions/Day 7/MinimumLights",
-        "365 Days Coding Challenge/questions/Day 6/PickFromBothSide",
-        "365 Days Coding Challenge/questions/Day 5/AddOneToNumber",
-        "365 Days Coding Challenge/questions/Day 4/WaveArray",
-        "365 Days Coding Challenge/questions/Day 3/MaxSumSubarray",
-        "365 Days Coding Challenge/questions/Day 2/MinSteps",
-        "365 Days Coding Challenge/questions/Day 1/VerifyPrime"
+      "pages": ["coding-challenge/day_11/OccurrenceOfEachNumber",
+                "coding-challenge/day_10/MaxNonNegativeSubArray",
+                "coding-challenge/day_9/SpiralOrderMatrix",
+                "coding-challenge/day_8/BinaryRepresentation",
+                "coding-challenge/day_7/MinimumLights",
+                "coding-challenge/day_6/PickFromBothSide",
+                "coding-challenge/day_5/AddOneToNumber",
+                "coding-challenge/day_4/WaveArray",
+                "coding-challenge/day_3/MaxSumSubarray",
+                "coding-challenge/day_2/MinSteps",
+                "coding-challenge/day_1/VerifyPrime"
         
       ]
     }
