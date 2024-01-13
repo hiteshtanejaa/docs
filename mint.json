@@ -27,7 +27,7 @@
   },
   "tabs": [
     {
-      "name": "Coding Challenge",
+      "name": "365 Days Coding Challenge",
       "url": "365 Days Coding Challenge"
     }
   ],
@@ -58,11 +58,11 @@
       "pages": ["essentials/markdown", "essentials/code", "essentials/images", "essentials/settings", "essentials/navigation"]
     },
     {
-      "group": "Coding Challenge",
+      "group": "365 Days Coding Challenge",
       "pages": ["365 Days Coding Challenge/introduction"]
     },
     {
-      "group": "Coding Challenge",
+      "group": "365 Days Coding Challenge",
       "pages": [
         "365 Days Coding Challenge/questions/Day 11/OccurrenceOfEachNumber",
         "365 Days Coding Challenge/questions/Day 10/Max Non Negative SubArray",
