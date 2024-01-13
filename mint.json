@@ -58,13 +58,13 @@
       "pages": ["essentials/markdown", "essentials/code", "essentials/images", "essentials/settings", "essentials/navigation"]
     },
     {
-      "group": "API Documentation",
-      "pages": ["api-reference/introduction"]
+      "group": "Coding Challenge",
+      "pages": ["365 Days Coding Challenge/introduction"]
     },
     {
       "group": "Days/Questions",
       "pages": [
-        "365 Days Coding Challenge/questions/Day 11/OccurrenceOfEachNumber.mdx.mdx",
+        "365 Days Coding Challenge/questions/Day 11/OccurrenceOfEachNumber.mdx",
         "365 Days Coding Challenge/questions/Day 10/Max Non Negative SubArray.mdx",
         "365 Days Coding Challenge/questions/Day 9/SpiralOrderMatrix.mdx",
         "365 Days Coding Challenge/questions/Day 8/BinaryRepresentation.mdx",
