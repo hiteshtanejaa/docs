@@ -59,8 +59,11 @@
     },
     {
       "group": "365 Days Coding Challenge",
-      "pages": ["365 Days Coding Challenge/introduction",
-        "365 Days Coding Challenge/questions/Day 11/OccurrenceOfEachNumber",
+      "pages": ["365 Days Coding Challenge/introduction"]
+    },
+    {
+      "group": "Questions",
+      "pages": ["365 Days Coding Challenge/questions/Day 11/OccurrenceOfEachNumber",
         "365 Days Coding Challenge/questions/Day 10/Max Non Negative SubArray",
         "365 Days Coding Challenge/questions/Day 9/SpiralOrderMatrix",
         "365 Days Coding Challenge/questions/Day 8/BinaryRepresentation",
