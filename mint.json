@@ -64,17 +64,17 @@
     {
       "group": "365 Days Coding Challenge",
       "pages": [
-        "365 Days Coding Challenge/questions/Day 11/OccurrenceOfEachNumber.mdx",
-        "365 Days Coding Challenge/questions/Day 10/Max Non Negative SubArray.mdx",
-        "365 Days Coding Challenge/questions/Day 9/SpiralOrderMatrix.mdx",
-        "365 Days Coding Challenge/questions/Day 8/BinaryRepresentation.mdx",
-        "365 Days Coding Challenge/questions/Day 7/MinimumLights.mdx",
-        "365 Days Coding Challenge/questions/Day 6/PickFromBothSide.mdx",
-        "365 Days Coding Challenge/questions/Day 5/AddOneToNumber.mdx",
-        "365 Days Coding Challenge/questions/Day 4/WaveArray.mdx",
-        "365 Days Coding Challenge/questions/Day 3/MaxSumSubarray.mdx",
-        "365 Days Coding Challenge/questions/Day 2/MinSteps.mdx",
-        "365 Days Coding Challenge/questions/Day 1/VerifyPrime.mdx"
+        "365 Days Coding Challenge/questions/Day 11/OccurrenceOfEachNumber",
+        "365 Days Coding Challenge/questions/Day 10/Max Non Negative SubArray",
+        "365 Days Coding Challenge/questions/Day 9/SpiralOrderMatrix",
+        "365 Days Coding Challenge/questions/Day 8/BinaryRepresentation",
+        "365 Days Coding Challenge/questions/Day 7/MinimumLights",
+        "365 Days Coding Challenge/questions/Day 6/PickFromBothSide",
+        "365 Days Coding Challenge/questions/Day 5/AddOneToNumber",
+        "365 Days Coding Challenge/questions/Day 4/WaveArray",
+        "365 Days Coding Challenge/questions/Day 3/MaxSumSubarray",
+        "365 Days Coding Challenge/questions/Day 2/MinSteps",
+        "365 Days Coding Challenge/questions/Day 1/VerifyPrime"
         
       ]
     }
