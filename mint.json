@@ -33,9 +33,9 @@
   ],
   "anchors": [
     {
-      "name": "Learn With Me",
+      "name": "Documentation",
       "icon": "book-open-cover",
-      "url": "introduction"
+      "url": "#"
     },
     {
       "name": "hiteshtaneja.com",
@@ -51,7 +51,7 @@
   "navigation": [
     {
       "group": "Get Started",
-      "pages": ["introduction", "quickstart", "development"]
+      "pages": ["introduction"]
     },
     {
       "group": "365 Days Coding Challenge",
