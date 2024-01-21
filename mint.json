@@ -33,9 +33,9 @@
   ],
   "anchors": [
     {
-      "name": "Documentation",
+      "name": "Learn With Me",
       "icon": "book-open-cover",
-      "url": "#"
+      "url": "introduction"
     },
     {
       "name": "hiteshtaneja.com",
