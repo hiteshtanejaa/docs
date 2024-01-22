@@ -4,8 +4,7 @@ description: 'Day 1'
 icon: "question"
 ---
 
-### Given a number N, verify if N is prime or not.
-### Return 1 if N is prime, else return 0.
+### Given a number N, verify if N is prime or not. Return 1 if N is prime, else return 0.
 
 Example :
 
@@ -49,8 +48,7 @@ The function then checks if N is divisible by 2 or 3. This is because all prime 
     - The function proceeds to check for possible divisors of N starting from 5. This is done using a while loop, which continues as long as the square of i (the current divisor being tested) is less than or equal to N.
     - Inside the loop, the function checks if N is divisible by i or i + 2. This step is based on the fact that after 2 and 3, all prime numbers are of the form 6k ± 1, where k is an integer. Therefore, it checks for divisibility with i and i + 2 where i starts from 5 and is incremented by 6 in each iteration (5, 11, 17, 23, ...).
     - If N is found to be divisible by either i or i + 2, it is not a prime number, and the function returns 0.
+Returning Prime Status:
 
-5. Returning Prime Status:
 If the function does not find any divisors of N in the above steps, it concludes that N is a prime number and returns 1.
-
 In summary, the isPrime(N) function efficiently checks whether a given number N is prime by first handling edge cases and then using the property that all primes are of the form 6k ± 1 for k > 0, thus reducing the number of divisibility checks needed.
