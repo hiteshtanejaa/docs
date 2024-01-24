@@ -54,6 +54,10 @@
       "pages": ["introduction"]
     },
     {
+      "group": "Statstics",
+      "pages": ["introduction"]
+    },
+    {
       "group": "365 Days Coding Challenge",
       "pages": ["coding-challenge/introduction"]
     },
